@@ -1,0 +1,36 @@
+c:\users\suporte\documents\visual studio 2015\Projects\ZeraReg\ZeraReg\bin\Debug\ZeraReg.exe.config
+c:\users\suporte\documents\visual studio 2015\Projects\ZeraReg\ZeraReg\bin\Debug\ZeraReg.exe
+c:\users\suporte\documents\visual studio 2015\Projects\ZeraReg\ZeraReg\bin\Debug\ZeraReg.pdb
+c:\users\suporte\documents\visual studio 2015\Projects\ZeraReg\ZeraReg\obj\Debug\ZeraReg.csprojResolveAssemblyReference.cache
+c:\users\suporte\documents\visual studio 2015\Projects\ZeraReg\ZeraReg\obj\Debug\ZeraReg.Form1.resources
+c:\users\suporte\documents\visual studio 2015\Projects\ZeraReg\ZeraReg\obj\Debug\ZeraReg.Properties.Resources.resources
+c:\users\suporte\documents\visual studio 2015\Projects\ZeraReg\ZeraReg\obj\Debug\ZeraReg.csproj.GenerateResource.Cache
+c:\users\suporte\documents\visual studio 2015\Projects\ZeraReg\ZeraReg\obj\Debug\ZeraReg.exe
+c:\users\suporte\documents\visual studio 2015\Projects\ZeraReg\ZeraReg\obj\Debug\ZeraReg.pdb
+C:\Users\SUPORTE\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\bin\Debug\ZeraReg.exe.config
+C:\Users\SUPORTE\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\obj\Debug\ZeraReg.exe
+C:\Users\SUPORTE\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\obj\Debug\ZeraReg.pdb
+C:\Users\SUPORTE\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\bin\Debug\ZeraReg.exe
+C:\Users\SUPORTE\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\bin\Debug\ZeraReg.pdb
+C:\Users\SUPORTE\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\obj\Debug\ZeraReg.csprojResolveAssemblyReference.cache
+C:\Users\SUPORTE\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\obj\Debug\ZeraReg.Form1.resources
+C:\Users\SUPORTE\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\obj\Debug\ZeraReg.Properties.Resources.resources
+C:\Users\SUPORTE\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\obj\Debug\ZeraReg.csproj.GenerateResource.Cache
+C:\Users\Douglas.FAMILIA-PC\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\bin\Debug\ZeraReg.exe.config
+C:\Users\Douglas.FAMILIA-PC\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\obj\Debug\ZeraReg.exe
+C:\Users\Douglas.FAMILIA-PC\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\obj\Debug\ZeraReg.pdb
+C:\Users\Douglas.FAMILIA-PC\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\bin\Debug\ZeraReg.exe
+C:\Users\Douglas.FAMILIA-PC\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\bin\Debug\ZeraReg.pdb
+C:\Users\Douglas.FAMILIA-PC\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\obj\Debug\ZeraReg.csprojResolveAssemblyReference.cache
+C:\Users\Douglas.FAMILIA-PC\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\obj\Debug\ZeraReg.Form1.resources
+C:\Users\Douglas.FAMILIA-PC\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\obj\Debug\ZeraReg.Properties.Resources.resources
+C:\Users\Douglas.FAMILIA-PC\Google Drive\Automatec\Desenvolvimento\ZeraReg\ZeraReg\obj\Debug\ZeraReg.csproj.GenerateResource.Cache
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\bin\Debug\ZeraReg.exe.config
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\obj\Debug\ZeraReg.exe
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\obj\Debug\ZeraReg.pdb
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\bin\Debug\ZeraReg.exe
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\bin\Debug\ZeraReg.pdb
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\obj\Debug\ZeraReg.csprojResolveAssemblyReference.cache
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\obj\Debug\ZeraReg.Form1.resources
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\obj\Debug\ZeraReg.Properties.Resources.resources
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\obj\Debug\ZeraReg.csproj.GenerateResource.Cache
