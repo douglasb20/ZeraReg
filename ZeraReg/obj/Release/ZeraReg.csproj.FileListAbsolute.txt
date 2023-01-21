@@ -1,1 +1,8 @@
 C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\bin\Release\ZeraReg.exe.config
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\bin\Release\ZeraReg.exe
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\bin\Release\ZeraReg.pdb
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\obj\Release\ZeraReg.Form1.resources
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\obj\Release\ZeraReg.Properties.Resources.resources
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\obj\Release\ZeraReg.csproj.GenerateResource.Cache
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\obj\Release\ZeraReg.exe
+C:\Users\DGPla\OneDrive\Documentos\Visual Studio 2015\Projects\ZeraReg\ZeraReg\obj\Release\ZeraReg.pdb
