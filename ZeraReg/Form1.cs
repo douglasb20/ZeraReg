@@ -2,7 +2,6 @@
 using System.Data.SqlClient;
 using System.Windows.Forms;
 
-
 namespace ZeraReg
 {
     public partial class Form1 : Form
@@ -19,7 +18,7 @@ namespace ZeraReg
 
                 SqlConnection conn  = new SqlConnection(@"Data Source=" + txthost.Text + ";Initial Catalog=ETrade; User ID=" + txtuser.Text + ";Password=" + txtpass.Text);
                 SqlCommand cmd      = new SqlCommand("", conn);
-                cmd.CommandText     = @"update Configuracao set valor='' where config='lib' or config='reg' ";
+                cmd.CommandText     = @"update Configuracao set Valor='' where Len(Valor) > 100 ";
 
                 conn.Open();
                 cmd.ExecuteNonQuery();
